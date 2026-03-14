@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sales Data Analysis Project
 
 ## 📊 Project Overview
@@ -89,3 +90,7 @@ The main goal of this project is to practice **data analysis using Python** and 
 
 
 Srungarapu Rishitha
+=======
+# sales-data-analysis-python
+Retail sales data analysis using Python, Pandas, and Matplotlib
+>>>>>>> 30c31b32ba83329ac1e369809cb98f62edc6d0bd
